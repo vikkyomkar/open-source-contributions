@@ -1,4 +1,6 @@
-
+### Jan 2020
+* [Include "busyExecutors" field in jenkins input plugin metircs #6843](https://github.com/influxdata/telegraf/issues/6843)
+* [Source and port tags are missing in jenkins job metrics #6842](https://github.com/influxdata/telegraf/issues/6842)
 
 ### Dec 2019
 * [Broken Docs link in help section of Graph and Table panel #21237](https://github.com/grafana/grafana/issues/21237)
