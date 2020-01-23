@@ -1,14 +1,15 @@
 ### Jan 2020
 #### Code
-* [Alerting: Unpausing a non-paused alert rule should not change status to Unknown #21375](https://github.com/grafana/grafana/pull/21375)
-* [Added source and port tags in jenkins_job metrics #6844](https://github.com/influxdata/telegraf/pull/6844)
+* [go-github] [Added support to revoke apps installation token #1386](https://github.com/google/go-github/pull/1386)
+* [Grafana] [Alerting: Unpausing a non-paused alert rule should not change status to Unknown #21375](https://github.com/grafana/grafana/pull/21375)
+* [Telegraf] [Added source and port tags in jenkins_job metrics #6844](https://github.com/influxdata/telegraf/pull/6844)
 #### Docs
-* [Docs: Fixed broken links of Datasource doc at Grafana plugin page #21363](https://github.com/grafana/grafana/pull/21363)
-* [fixed the broken grafana link in readme #90](https://github.com/grafana/grafana-polystat-panel/pull/90)
-* [Docs: fixed the broken URL of grafana plugin installation #211](https://github.com/grafana/piechart-panel/pull/211)
+* [Grafana] [Docs: Fixed broken links of Datasource doc at Grafana plugin page #21363](https://github.com/grafana/grafana/pull/21363)
+* [Grafana] [fixed the broken grafana link in readme #90](https://github.com/grafana/grafana-polystat-panel/pull/90)
+* [Grafana] [Docs: fixed the broken URL of grafana plugin installation #211](https://github.com/grafana/piechart-panel/pull/211)
 
 ### Dec 2019
 #### Docs
-* [fixed the broken link to grafana plugin #13](https://github.com/digiapulssi/grafana-organisations-panel/pull/13)
-* [Docs: fixed broken doc link for graph and table panels #21238](https://github.com/grafana/grafana/pull/21238)
-* [Docs: fix of broken doc link in the dashlist panel's help section #21230](https://github.com/grafana/grafana/pull/21230)
+* [Grafana] [fixed the broken link to grafana plugin #13](https://github.com/digiapulssi/grafana-organisations-panel/pull/13)
+* [Grafana] [Docs: fixed broken doc link for graph and table panels #21238](https://github.com/grafana/grafana/pull/21238)
+* [Grafana] [Docs: fix of broken doc link in the dashlist panel's help section #21230](https://github.com/grafana/grafana/pull/21230)
