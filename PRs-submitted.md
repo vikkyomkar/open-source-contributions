@@ -1,5 +1,6 @@
 ### Jan 2020
 #### Code
+* [go-github] [Remove "everest" custom preview header on official GitHub release #1391](https://github.com/google/go-github/pull/1391)
 * [Telegraf] [Kibana Input Plugin: added compatibility for all 6.X.X versions #6923](https://github.com/influxdata/telegraf/pull/6923)
 * [go-github] [Added support to revoke apps installation token #1386](https://github.com/google/go-github/pull/1386)
 * [Grafana] [Alerting: Unpausing a non-paused alert rule should not change status to Unknown #21375](https://github.com/grafana/grafana/pull/21375)
