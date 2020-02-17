@@ -1,3 +1,7 @@
+### Feb 2020
+#### Code
+* [Telegraf] [Added new fields for Jenkins Total and Busy executors #6957](https://github.com/influxdata/telegraf/pull/6957)
+
 ### Jan 2020
 #### Code
 * [go-github] [Remove "everest" custom preview header on official GitHub release #1391](https://github.com/google/go-github/pull/1391)
