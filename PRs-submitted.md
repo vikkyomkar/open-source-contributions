@@ -1,5 +1,8 @@
 ### Feb 2020
 #### Code
+* [Grafana] [Alerting: Fixed the issue/bug of diff and percent_diff functions #21338](https://github.com/grafana/grafana/pull/21338)
+* [kubernetes-minikube] [Fix: do not change the profile to a none existing profile #6774](https://github.com/kubernetes/minikube/pull/6774)
+* [terraform-provider-github] [Insecure_ssl parameter behaviour in webhook creation #365](https://github.com/terraform-providers/terraform-provider-github/pull/365)
 * [Telegraf] [Added new fields for Jenkins Total and Busy executors #6957](https://github.com/influxdata/telegraf/pull/6957)
 
 ### Jan 2020
