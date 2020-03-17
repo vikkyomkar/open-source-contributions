@@ -1,7 +1,7 @@
 ### Mar 2020
 #### Code
-* [kubernetes/minikube] [Function name "HostPortBinding" changed to "ForwardedPort] (https://github.com/kubernetes/minikube/pull/7051)
-* [kubernetes/kube-state-metrics] [v2: Renamed --namespace flag to --namespaces] (https://github.com/kubernetes/kube-state-metrics/pull/1098)
+* [kubernetes/minikube] [Function name "HostPortBinding" changed to "ForwardedPort](https://github.com/kubernetes/minikube/pull/7051)
+* [kubernetes/kube-state-metrics] [v2: Renamed --namespace flag to --namespaces](https://github.com/kubernetes/kube-state-metrics/pull/1098)
 
 ### Feb 2020
 #### Code
