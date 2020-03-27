@@ -1,5 +1,6 @@
 ### Mar 2020
 #### Code
+* [kubernetes/kube-state-metrics] [v2: Rename storage class labels reclaimPolicy to reclaim_policy and volumeBindingMode to volume_binding_mode](https://github.com/kubernetes/kube-state-metrics/pull/1107)
 * [kubernetes/minikube] [Add --vm flag for users who want to autoselect only VM's](https://github.com/kubernetes/minikube/pull/7068)
 * [go-github] [Added AuthorAssociation field in issue struct](https://github.com/google/go-github/pull/1462)
 * [kubernetes/minikube] [Function name "HostPortBinding" changed to "ForwardedPort](https://github.com/kubernetes/minikube/pull/7051)
