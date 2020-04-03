@@ -1,3 +1,7 @@
+### Apr 2020
+#### Code
+* [Grafana] [CloudWatch: Added Cassandra namespace](https://github.com/grafana/grafana/pull/23299)
+
 ### Mar 2020
 #### Code
 * [kubernetes/kube-state-metrics] [v2: Rename storage class labels reclaimPolicy to reclaim_policy and volumeBindingMode to volume_binding_mode](https://github.com/kubernetes/kube-state-metrics/pull/1107)
