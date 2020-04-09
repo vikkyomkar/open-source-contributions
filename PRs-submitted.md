@@ -1,5 +1,6 @@
 ### Apr 2020
 #### Code
+* [Grafana] [Templating: Fix global variable "__org.id"](https://github.com/grafana/grafana/pull/23362)
 * [kubernetes/minikube] [Docs on how to enable feature gates](https://github.com/kubernetes/minikube/pull/7443)
 * [Grafana] [CloudWatch: Added Cassandra namespace](https://github.com/grafana/grafana/pull/23299)
 
