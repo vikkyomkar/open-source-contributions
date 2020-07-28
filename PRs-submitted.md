@@ -1,3 +1,8 @@
+### July 2020
+#### Code
+* [kubernetes/kube-state-metrics] [Adds new pod metric kube_pod_container_state_started](https://github.com/kubernetes/kube-state-metrics/pull/1183)
+* [influxdata/telegraf] [MongoDB: Added new metric "pages written from cache" ](https://github.com/influxdata/telegraf/pull/7870)
+
 ### Apr 2020
 #### Code
 * [Grafana] [Templating: Fix global variable "__org.id"](https://github.com/grafana/grafana/pull/23362)
