@@ -2,6 +2,9 @@
 #### Code
 * [kubernetes/kubernetes] [[Cleanup] Removes usage of the k8s-master label (version marker)](https://github.com/kubernetes/kubernetes/pull/93626)
 
+#### Docs
+* [influxdata/telegraf] [Updated http_response input plugin README.md](https://github.com/influxdata/telegraf/pull/7962)
+
 ### July 2020
 #### Code
 * [kubernetes/kube-state-metrics] [Adds new pod metric kube_pod_container_state_started](https://github.com/kubernetes/kube-state-metrics/pull/1183)
